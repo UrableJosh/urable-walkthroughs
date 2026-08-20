@@ -1,0 +1,111 @@
+{
+ "walkthrough": "Collect A Payment",
+ "source": "https://intercom.help/urable/en/articles/10193150-collecting-payment",
+ "status": "built 2026-08-20 — cursor-free captures (Wall-E dev, job 5014, customer Josh Smith, Visa ****0006)",
+ "capture_frame": "hotspots in % of frame",
+ "parts": [
+  {
+   "id": "A",
+   "label": "Part A · Charge It"
+  },
+  {
+   "id": "B",
+   "label": "Part B · Record & Beyond"
+  }
+ ],
+ "steps": [
+  {
+   "img": "step-01.webp",
+   "part": "A",
+   "title": "Open ADD on the job",
+   "body": "From the job, click <b>+ ADD</b> at the bottom of the screen. The totals on the right — tax and fees included — are what you're about to collect.",
+   "hs": [
+    50.0,
+    95.6
+   ]
+  },
+  {
+   "img": "step-02.webp",
+   "part": "A",
+   "title": "Choose Payment",
+   "body": "Pick <b>Payment</b> from the menu. This one screen handles deposits, full payments, cards, cash — all of it.",
+   "hs": [
+    50.0,
+    69.6
+   ]
+  },
+  {
+   "img": "step-03.webp",
+   "part": "A",
+   "title": "Review the basics",
+   "body": "The <b>Comment</b> your customer sees is prefilled from your defaults, and <b>Due By</b> is set automatically. Adjust either if this payment needs something specific.",
+   "hs": [
+    49.6,
+    49.6
+   ]
+  },
+  {
+   "img": "step-04.webp",
+   "part": "A",
+   "title": "Set the amount",
+   "body": "<b>Amount due</b> is selected by default for a full payment. Taking a deposit instead? Click <b>Custom</b> and enter the amount.",
+   "hs": [
+    63.0,
+    50.8
+   ],
+   "note": "Below the amount you'll pick how they're paying: your card processor (UrPay here), or Check, Cash, and Other for payments you just need to record."
+  },
+  {
+   "img": "step-05.webp",
+   "part": "A",
+   "title": "Charge the card on file",
+   "body": "Inside <b>UrPay</b> you get every card option: the customer's <b>card on file</b>, <b>Tap/Insert/Swipe</b> for in-person, a <b>Payment Form</b> for cards over the phone, or a payable invoice. Click the card on file to charge it.",
+   "hs": [
+    49.6,
+    51.5
+   ]
+  },
+  {
+   "img": "step-06.webp",
+   "part": "A",
+   "title": "Tip and sign",
+   "body": "The confirm screen offers <b>tip presets</b> your customer can tap, then they <b>sign</b> right on the screen and you hit <b>PAY</b>.",
+   "hs": [
+    50.0,
+    53.7
+   ]
+  },
+  {
+   "img": "step-07.webp",
+   "part": "A",
+   "title": "Confirm the charge",
+   "body": "One last check — the exact card being charged. Click <b>YES</b> and Urable processes it on the spot.",
+   "hs": [
+    54.3,
+    53.1
+   ]
+  },
+  {
+   "img": "step-08.webp",
+   "part": "B",
+   "title": "Cash, check and everything else",
+   "body": "Not a card? <b>Cash</b>, <b>Check</b> and <b>Other</b> record the payment without processing it. In <b>Preferences > Payment</b>, add custom methods — Venmo, PayPal, Cash App, Zelle — so 'Other' payments get tracked by name.",
+   "hs": [
+    49.0,
+    80.3
+   ],
+   "note": "This screen also holds the auto-receipt toggle, past-due timing, and automatic resend for pending payment requests."
+  },
+  {
+   "img": "step-09.webp",
+   "part": "B",
+   "title": "Paid, signed, receipted",
+   "body": "The payment record shows it all: <b>$2,884.00 Paid</b>, the card used, date and time, the signature — and with auto-receipts on, your customer already has their copy. Amount due on the job: zero.",
+   "hs": [
+    36.3,
+    21.6
+   ],
+   "finish": true
+  }
+ ]
+}
