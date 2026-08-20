@@ -1,0 +1,1 @@
+{ "cleanUrls": true, "headers": [ { "source": "/scripts/(.*)", "headers": [ { "key": "Access-Control-Allow-Origin", "value": "*" } ] } ] }
